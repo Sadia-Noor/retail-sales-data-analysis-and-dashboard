@@ -1,4 +1,5 @@
 # Retail Sales Dashboard
+![image](https://github.com/user-attachments/assets/9ed895d2-9818-4953-985f-0739cea4908b)
 
 ## Overview
 
