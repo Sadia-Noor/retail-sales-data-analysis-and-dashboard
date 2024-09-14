@@ -46,7 +46,7 @@ To get started with the project:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/retail-sales-dashboard.git
+    git clone https://github.com/sadia-noor/retail-sales-data-analysis-and-dashboard.git
     ```
 
 2. **Open the Excel File**: 
